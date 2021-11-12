@@ -1,3 +1,2 @@
-To view the project click below
-
-https://meher450.github.io/project52/index.html
+To view the project on visual studio click below
+http://127.0.0.1:5500/
